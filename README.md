@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome
 
 <!--
 **gracoes/gracoes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I am a software engineer at [Uniplaces](www.uniplaces.com) working on technologies such as Go, ReactJS, Elasticsearch, PHP and AWS.
+I have a special place in my heart for recursivity and an ever increasingly interest in LISP like languages and an ever increasingly disillusionment of the Web and software in general...
